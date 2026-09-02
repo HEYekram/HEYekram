@@ -259,7 +259,7 @@ I'm still growing as a developer, so I use GitHub to document my progress, exper
 <p align="center">
 
 <a href="YOUR_FACEBOOK_URL">
-  <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />https://www.facebook.com/diewithhdadying
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
@@ -274,12 +274,6 @@ I'm still growing as a developer, so I use GitHub to document my progress, exper
 
 ---
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=HEYekram&style=flat-square&label=Profile+Views"
-    alt="Profile Views"
-  />
-</p>
 
 <p align="center">
   <b>Thanks for visiting my profile! ✨</b>

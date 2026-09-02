@@ -258,7 +258,7 @@ I'm still growing as a developer, so I use GitHub to document my progress, exper
 
 <p align="center">
 
-<a href="https://www.facebook.com/diewithhdadying">
+<a href="https://www.facebook.com/diewithhdadying/">
   <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 

@@ -205,22 +205,6 @@ I also use GitHub to document my learning and experiments involving:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=HEYekram&show_icons=true&hide_border=true&rank_icon=github"
-    alt="Ekram's GitHub Stats"
-  />
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEYekram&layout=compact&hide_border=true"
-    alt="Ekram's Most Used Languages"
-  />
-</p>
-
----
 
 ## 🔥 GitHub Streak
 

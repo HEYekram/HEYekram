@@ -1,48 +1,43 @@
-# Hi, I'm Al Ekram Hossain 👋
+<h1 align="center">Hi 👋, I'm Al Ekram Hossain</h1>
 
-### Web Developer | Frontend & Backend Development
+<h3 align="center">
+  Web Developer • Software Engineer
+</h3>
 
-I’m a web developer focused on building modern, responsive,
-and user-friendly web applications.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;Learning+and+shipping+real+projects;Turning+ideas+into+functional+products" />
+</p>
 
-I enjoy turning ideas into functional products and continuously
-improving my skills in modern web technologies.
+<p align="center">
+  <a href="https://github.com/HEYekram">
+    <img src="https://img.shields.io/github/followers/HEYekram?label=Followers&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/HEYekram?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-Explore-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-## 🚀 About Me
+---
 
-- 💻 Web Developer
-- 🌐 Building responsive and modern web applications
-- ⚡ Interested in frontend and backend development
-- 📚 Continuously learning modern web technologies
-- 🤝 Open to collaboration and development opportunities
+## ✨ About Me
 
-## 🛠️ Tech Stack
-
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Tailwind CSS
-- Bootstrap
-
-### Backend
-- Node.js
-- Express.js
-
-### Database
-- MongoDB
-- MySQL
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
-
-
-
-## 📫 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/alekram007/
-- Email: zihad.ikram77@gmail.com
+```javascript
+const ekram = {
+  role: "Web Developer",
+  focus: [
+    "Frontend Development",
+    "Backend Development",
+    "Full-Stack Applications"
+  ],
+  interests: [
+    "Web Technologies",
+    "Software Engineering",
+    "Problem Solving"
+  ],
+  currentlyLearning: "Modern Web Development",
+  openTo: [
+    "Internships",
+    "Junior Developer Roles",
+    "Collaborations"
+  ]
+};

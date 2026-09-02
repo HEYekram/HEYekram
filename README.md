@@ -237,7 +237,7 @@ I also use GitHub to document my learning and experiments involving:
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=HEYekram&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=HEYekram&theme=github-compact&hide_border=true"
     alt="GitHub Contribution Graph"
   />
 </p>

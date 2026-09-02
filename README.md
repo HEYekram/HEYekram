@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Al Ekram Hossain 👋
 
-<!--
-**HEYekram/HEYekram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Developer | Frontend & Backend Development
 
-Here are some ideas to get you started:
+I’m a web developer focused on building modern, responsive,
+and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into functional products and continuously
+improving my skills in modern web technologies.
+
+## 🚀 About Me
+
+- 💻 Web Developer
+- 🌐 Building responsive and modern web applications
+- ⚡ Interested in frontend and backend development
+- 📚 Continuously learning modern web technologies
+- 🤝 Open to collaboration and development opportunities
+
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Tailwind CSS
+- Bootstrap
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/alekram007/
+- Email: zihad.ikram77@gmail.com

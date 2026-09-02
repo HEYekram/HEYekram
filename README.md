@@ -10,15 +10,15 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_FACEBOOK_URL">
+  <a href="https://www.facebook.com/diewithhdadying/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   &nbsp;
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/alekram007/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:zihad.ikram77@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>

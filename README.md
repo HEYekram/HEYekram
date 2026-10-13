@@ -140,7 +140,7 @@ If you're hiring, building something, or want to swap ideas, I reply personally.
 
 <div align="center">
 
-<a href="mailto:alekram.dev@gmail.com"><img src="https://img.shields.io/badge/alekram.dev%40gmail.com-14505c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://mail.google.com/mail/?view=cm&to=alekram.dev@gmail.com"><img src="https://img.shields.io/badge/alekram.dev%40gmail.com-14505c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/alekram007/"><img src="https://img.shields.io/badge/in%2Falekram007-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <br/><br/>

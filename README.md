@@ -1,264 +1,141 @@
-<h1 align="center">Hi 👋, I'm Al Ekram Hossain</h1>
+<!-- ═══════════════════════════════════════════════════════════════
+  GitHub profile README for Al Ekram Hossain
+  Theme matches the portfolio: deep teal, soft glow, serif-meets-sans.
 
-<h3 align="center">Web Developer</h3>
+  BEFORE YOU PUBLISH, search this file for "TODO" and fill in:
+   1. Your deployed portfolio URL
+   2. Live demo links for projects (if any)
+   3. Final stack for each project (only list what you really used)
+═══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Learning%2C+Building+%26+Improving+Every+Day;Exploring+Modern+Web+Development"
-    alt="Typing SVG"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.facebook.com/diewithhdadying/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/alekram007/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:zihad.ikram77@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0b1a20,50:14505c,100:3a8794&text=Al%20Ekram%20Hossain&fontColor=e8f4f6&fontSize=52&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20Dhaka%2C%20Bangladesh&descSize=18&descAlignY=60&animation=fadeIn" alt="Al Ekram Hossain - Frontend Developer" />
 
-<p align="center">
-  <a href="https://github.com/HEYekram">
-    <img src="https://img.shields.io/github/followers/HEYekram?label=Followers&style=flat-square&logo=github" />
-  </a>
-  <a href="https://github.com/HEYekram?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=flat-square&logo=github" />
-  </a>
-</p>
+<a href="https://github.com/HEYekram">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7CC4D0&center=true&vCenter=true&width=640&lines=Interfaces+that+feel+considered.;React+%2B+TypeScript+%2B+Tailwind.;Accessible+by+default%2C+fast+by+design.;Open+to+junior+roles+%26+internships." alt="Typing animation" />
+</a>
 
----
+<br/>
 
-## ✨ About Me
+<a href="TODO_YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-14505c?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/alekram007/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:alekram.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-```javascript
-const ekram = {
-  role: "Web Developer",
+<br/><br/>
 
-  currentlyLearning: [
-    "Modern Web Development",
-    "Frontend Development",
-    "Backend Development"
+<img src="https://img.shields.io/badge/status-open%20to%20work-3ddc97?style=flat-square&labelColor=0b1a20" alt="Open to work" />
+<img src="https://img.shields.io/badge/roles-junior%20%7C%20internship%20%7C%20freelance-7cc4d0?style=flat-square&labelColor=0b1a20" alt="Roles" />
+<img src="https://img.shields.io/badge/based%20in-Dhaka%2C%20BD-e8f4f6?style=flat-square&labelColor=0b1a20" alt="Location" />
+
+</div>
+
+<br/>
+
+## `// hello`
+
+I build web interfaces where **design and engineering meet**: spacing that breathes, type that carries mood, and motion that never rushes the user. I'm a fresh graduate looking for my first frontend role, and I care about the details that make a product feel finished.
+
+```ts
+// developer.config.ts
+
+export const ekram = {
+  name: "Al Ekram Hossain",
+  role: "Frontend Developer",
+  location: "Dhaka, Bangladesh",
+
+  stack: {
+    daily: ["React", "TypeScript", "Tailwind CSS", "Next.js"],
+    backend: ["Node.js", "MongoDB", "Firebase"],
+    workflow: ["Git", "GitHub", "Figma", "Netlify"],
+  },
+
+  principles: [
+    "Accessibility in the first pass, not the last",
+    "Components other people can actually maintain",
+    "Motion with purpose, never decoration",
+    "Ship small, learn fast, refine",
   ],
 
-  interests: [
-    "Web Technologies",
-    "Software Development",
-    "Problem Solving"
-  ],
-
-  goals: [
-    "Build better real-world projects",
-    "Improve my development skills",
-    "Learn modern technologies"
-  ],
-
-  openTo: [
-    "Internships",
-    "Junior Developer Opportunities",
-    "Collaborations"
-  ]
-};
+  lookingFor: ["Junior frontend roles", "Internships", "Freelance projects"],
+  availableForWork: true,
+} as const;
 ```
 
-I enjoy learning web development by **building practical projects** and improving them step by step.
+<br/>
 
-My current focus is strengthening my fundamentals, exploring modern web technologies, and gradually building projects that solve real problems.
+## `// stack`
 
----
+<div align="center">
 
-## 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="Frontend skills" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase&theme=dark" alt="Backend skills" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,netlify,vscode&theme=dark" alt="Tools" />
 
-### 🎨 Frontend
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" />
-</p>
+<br/>
 
-### ⚙️ Backend
+## `// selected work`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,python&theme=dark" />
-</p>
+<!-- TODO: only list what you actually used in each project. Add live demo links where possible. Replace the descriptions with what you BUILT, not what you practiced. -->
 
-### 🗄️ Database
+| Project | What it is | Built with | Links |
+| :-- | :-- | :-- | :-- |
+| **🩸 Blood Donation System** | Web app for managing blood donor and request information, built around a database-driven workflow. | `TODO stack` | [Code](https://github.com/HEYekram/Blood-Donation-System) · TODO demo |
+| **🎓 Student Management System** | Application for storing, organizing, and managing student records with full CRUD operations. | `TODO stack` | [Code](https://github.com/HEYekram/Student-Management-System) · TODO demo |
+| **💼 Octopi Internship** | Weekly tasks and projects from my internship, documenting my development workflow with Git and GitHub. | `HTML` `CSS` `JavaScript` | [Code](https://github.com/HEYekram/Octopi-Intern) |
+| **✨ This Portfolio** | The site you may have come from. Dark and light themes, glass-style cards, and a custom interaction layer. | `React` `TypeScript` `Tailwind` | [Visit](TODO_YOUR_PORTFOLIO_URL) · TODO repo link |
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-</p>
+<br/>
 
-### 🔧 Tools & Environment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🩸 Blood Donation System
-
-A web-based project developed to manage blood donation-related information and practice building database-driven applications.
-
-**What I practiced:**
-
-- Web application development
-- Database integration
-- Data management
-- Application structure
-
-<p>
-  <a href="https://github.com/HEYekram/Blood-Donation-System">
-    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎓 Student Management System
-
-A student management application created to practice organizing, storing, and managing student-related information.
-
-**What I practiced:**
-
-- CRUD operations
-- Data organization
-- Backend logic
-- Database handling
-
-<p>
-  <a href="https://github.com/HEYekram/Student-Management-System">
-    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 💼 Octopi Intern
-
-A project created as part of my practical development and internship learning experience.
-
-**What I practiced:**
-
-- Development workflow
-- Project implementation
-- Git & GitHub
-- Problem solving
-
-<p>
-  <a href="https://github.com/HEYekram/Octopi-Intern">
-    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧪 More Projects
-
-I also use GitHub to document my learning and experiments involving:
-
-- 🌐 Web Development
-- 💻 Programming
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🎓 University Projects
-
-<p>
-  <a href="https://github.com/HEYekram?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 Currently Focusing On
-
-- 🌐 Improving my **Web Development fundamentals**
-- 🎨 Building cleaner and more responsive interfaces
-- ⚙️ Learning better backend development practices
-- 🗄️ Improving my database knowledge
-- 🧩 Practicing problem solving
-- 🛠️ Building more practical projects
-- 📚 Learning through hands-on development
-
----
-
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=HEYekram&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=HEYekram&theme=github-compact&hide_border=true"
-    alt="GitHub Contribution Graph"
-  />
-</p>
-
----
-
-## 🌱 My Development Journey
+## `// now`
 
 ```text
-Learn → Practice → Build → Make Mistakes → Improve → Repeat 🚀
+> currently      sharpening React + TypeScript through real projects
+> improving      accessibility, performance, and responsive polish
+> exploring      Next.js and full-stack patterns with Node + MongoDB
+> goal           land a junior frontend role and grow with a good team
 ```
 
-I'm still growing as a developer, so I use GitHub to document my progress, experiment with ideas, and improve my skills through hands-on projects.
+<br/>
 
----
+## `// how i work`
 
-## 🤝 Connect With Me
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>🎨 Design-minded</b><br/>
+      I translate atmosphere into components. Colour, type, and spacing are engineering decisions too.
+    </td>
+    <td width="33%" valign="top">
+      <b>♿ Accessible</b><br/>
+      Semantic HTML, keyboard support, and readable contrast from the first commit.
+    </td>
+    <td width="33%" valign="top">
+      <b>🧱 Maintainable</b><br/>
+      Small reusable components, clear naming, and READMEs that explain the why.
+    </td>
+  </tr>
+</table>
 
-<p align="center">
+<br/>
 
-<a href="https://www.facebook.com/diewithhdadying/">
-  <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
+## `// let's talk`
 
-<a href="https://www.linkedin.com/in/alekram007/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+If you're hiring, building something, or want to swap ideas, I reply personally.
 
-<a href="zihad.ikram77@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<div align="center">
 
-</p>
+<a href="mailto:alekram.dev@gmail.com"><img src="https://img.shields.io/badge/alekram.dev%40gmail.com-14505c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/alekram007/"><img src="https://img.shields.io/badge/in%2Falekram007-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
----
+<br/><br/>
 
+<sub><i>Quiet craft. Loud taste. Always on the side of the person using the screen.</i></sub>
 
-<p align="center">
-  <b>Thanks for visiting my profile! ✨</b>
-</p>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:3a8794,50:14505c,100:0b1a20&section=footer" alt="" />

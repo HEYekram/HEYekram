@@ -34,7 +34,18 @@
 
 ## `// hello`
 
-I build web interfaces where **design and engineering meet**: spacing that breathes, type that carries mood, and motion that never rushes the user. I'm a fresh graduate looking for my first frontend role, and I care about the details that make a product feel finished.
+<table>
+  <tr>
+    <td width="230" align="center" valign="middle">
+      <img src="./assets/avatar.png" width="210" alt="Al Ekram Hossain" />
+    </td>
+    <td valign="middle">
+      <b>Hi, I'm Ekram 👋</b><br/><br/>
+      I build web interfaces where <b>design and engineering meet</b>: spacing that breathes, type that carries mood, and motion that never rushes the user.<br/><br/>
+      I'm a fresh graduate looking for my first frontend role, and I care about the details that make a product feel finished.
+    </td>
+  </tr>
+</table>
 
 ```ts
 // developer.config.ts

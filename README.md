@@ -37,7 +37,7 @@
 <table>
   <tr>
     <td width="230" align="center" valign="middle">
-      <img src="./assets/avatar.png" width="210" alt="Al Ekram Hossain" />
+      <img src="assets/Dark theme.png" width="210" alt="Al Ekram Hossain" />
     </td>
     <td valign="middle">
       <b>Hi, I'm Ekram 👋</b><br/><br/>

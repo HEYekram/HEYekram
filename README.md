@@ -34,18 +34,11 @@
 
 ## `// hello`
 
-<table>
-  <tr>
-    <td width="230" align="center" valign="middle">
-      <img src="assets/Dark theme.png" width="210" alt="Al Ekram Hossain" />
-    </td>
-    <td valign="middle">
-      <b>Hi, I'm Ekram 👋</b><br/><br/>
-      I build web interfaces where <b>design and engineering meet</b>: spacing that breathes, type that carries mood, and motion that never rushes the user.<br/><br/>
-      I'm a fresh graduate looking for my first frontend role, and I care about the details that make a product feel finished.
-    </td>
-  </tr>
-</table>
+**Hi, I'm Ekram 👋**
+
+I build web interfaces where **design and engineering meet**: spacing that breathes, type that carries mood, and motion that never rushes the user.
+
+I'm a fresh graduate looking for my first frontend role, and I care about the details that make a product feel finished.
 
 ```ts
 // developer.config.ts
@@ -144,6 +137,13 @@ If you're hiring, building something, or want to swap ideas, I reply personally.
 <a href="https://www.linkedin.com/in/alekram007/"><img src="https://img.shields.io/badge/in%2Falekram007-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <br/><br/>
+
+<!-- ╔══════════════════════════════════════════════════════════╗
+     ║  PIXEL ART SECTION                                      ║
+     ║  File: assets/pixel-art.svg  (commit this to your repo) ║
+     ╚══════════════════════════════════════════════════════════╝ -->
+
+<img width="100%" src="assets/pixel-art.svg" alt="Pixel art: retro CRT terminal with code, heart, star and gem icons — all in teal and glow palette" />
 
 <sub><i>Quiet craft. Loud taste. Always on the side of the person using the screen.</i></sub>
 

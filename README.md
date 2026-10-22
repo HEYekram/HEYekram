@@ -138,13 +138,6 @@ If you're hiring, building something, or want to swap ideas, I reply personally.
 
 <br/><br/>
 
-<!-- ╔══════════════════════════════════════════════════════════╗
-     ║  PIXEL ART SECTION                                      ║
-     ║  File: assets/pixel-art.svg  (commit this to your repo) ║
-     ╚══════════════════════════════════════════════════════════╝ -->
-
-<img width="100%" src="assets/pixel-art.svg" alt="Pixel art: retro CRT terminal with code, heart, star and gem icons — all in teal and glow palette" />
-
 <sub><i>Quiet craft. Loud taste. Always on the side of the person using the screen.</i></sub>
 
 </div>

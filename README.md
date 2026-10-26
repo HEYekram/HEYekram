@@ -1,145 +1,140 @@
-<!-- ═══════════════════════════════════════════════════════════════
-  GitHub profile README for Al Ekram Hossain
-  Theme matches the portfolio: deep teal, soft glow, serif-meets-sans.
+<!--
+  ╔══════════════════════════════════════════════╗
+  ║   Al Ekram Hossain · GitHub Profile README   ║
+  ║   Concept: The Working Directory             ║
+  ║   Palette: Monochrome + single teal accent   ║
+  ╚══════════════════════════════════════════════╝
 
-  BEFORE YOU PUBLISH, search this file for "TODO" and fill in:
-   1. Your deployed portfolio URL
-   2. Live demo links for projects (if any)
-   3. Final stack for each project (only list what you really used)
-═══════════════════════════════════════════════════════════════ -->
+  BEFORE PUBLISHING — search for TODO and fill in:
+    1. Your deployed portfolio URL
+    2. Live demo links for each project
+    3. Actual stack used in each project
+-->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0b1a20,50:14505c,100:3a8794&text=Al%20Ekram%20Hossain&fontColor=e8f4f6&fontSize=52&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20Dhaka%2C%20Bangladesh&descSize=18&descAlignY=60&animation=fadeIn" alt="Al Ekram Hossain - Frontend Developer" />
-
-<a href="https://github.com/HEYekram">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7CC4D0&center=true&vCenter=true&width=640&lines=Interfaces+that+feel+considered.;React+%2B+TypeScript+%2B+Tailwind.;Accessible+by+default%2C+fast+by+design.;Open+to+junior+roles+%26+internships." alt="Typing animation" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=0&pause=0&color=F0F0F0&center=true&vCenter=true&width=600&lines=Al+Ekram+Hossain" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=0&pause=0&color=1a1a1a&center=true&vCenter=true&width=600&lines=Al+Ekram+Hossain" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=0&pause=0&color=F0F0F0&center=true&vCenter=true&width=600&lines=Al+Ekram+Hossain" alt="Al Ekram Hossain" />
+</picture>
 
 <br/>
 
-<a href="TODO_YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-14505c?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/alekram007/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:alekram.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/status-open%20to%20work-3ddc97?style=flat-square&labelColor=0b1a20" alt="Open to work" />
-<img src="https://img.shields.io/badge/roles-junior%20%7C%20internship%20%7C%20freelance-7cc4d0?style=flat-square&labelColor=0b1a20" alt="Roles" />
-<img src="https://img.shields.io/badge/based%20in-Dhaka%2C%20BD-e8f4f6?style=flat-square&labelColor=0b1a20" alt="Location" />
+```
+frontend developer  ·  dhaka, bangladesh  ·  ekram.dev@gmail.com
+```
 
 </div>
 
-<br/>
+---
 
-## `// hello`
+```
+~/ekram
+├── about.ts
+├── stack/
+│   ├── frontend.ts
+│   └── tools.ts
+├── work/
+│   ├── blood-donation-system/
+│   ├── student-management-system/
+│   ├── octopi-intern/
+│   └── portfolio/
+└── contact.ts
+```
 
-**Hi, I'm Ekram 👋**
+---
 
-I build web interfaces where **design and engineering meet**: spacing that breathes, type that carries mood, and motion that never rushes the user.
-
-I'm a fresh graduate looking for my first frontend role, and I care about the details that make a product feel finished.
+### `about.ts`
 
 ```ts
-// developer.config.ts
+const ekram = {
+  craft: "interfaces that feel considered",
+  cares_about: ["spacing", "type", "motion", "semantic HTML"],
 
-export const ekram = {
-  name: "Al Ekram Hossain",
-  role: "Frontend Developer",
-  location: "Dhaka, Bangladesh",
+  // building things where design decisions
+  // are engineering decisions too
+  approach: "accessible by default, fast by design",
 
-  stack: {
-    daily: ["React", "TypeScript", "Tailwind CSS", "Next.js"],
-    backend: ["Node.js", "MongoDB", "Firebase"],
-    workflow: ["Git", "GitHub", "Figma", "Netlify"],
-  },
-
-  principles: [
-    "Accessibility in the first pass, not the last",
-    "Components other people can actually maintain",
-    "Motion with purpose, never decoration",
-    "Ship small, learn fast, refine",
-  ],
-
-  lookingFor: ["Junior frontend roles", "Internships", "Freelance projects"],
-  availableForWork: true,
-} as const;
+  based_in: "Dhaka, BD",
+  timezone: "UTC+6",
+};
 ```
 
-<br/>
+---
 
-## `// stack`
+### `stack/frontend.ts`
 
-<div align="center">
+```ts
+// what i reach for daily
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="Frontend skills" />
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase&theme=dark" alt="Backend skills" />
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,figma,netlify,vscode&theme=dark" alt="Tools" />
-
-</div>
-
-<br/>
-
-## `// selected work`
-
-<!-- TODO: only list what you actually used in each project. Add live demo links where possible. Replace the descriptions with what you BUILT, not what you practiced. -->
-
-| Project | What it is | Built with | Links |
-| :-- | :-- | :-- | :-- |
-| **🩸 Blood Donation System** | Web app for managing blood donor and request information, built around a database-driven workflow. | `TODO stack` | [Code](https://github.com/HEYekram/Blood-Donation-System) · TODO demo |
-| **🎓 Student Management System** | Application for storing, organizing, and managing student records with full CRUD operations. | `TODO stack` | [Code](https://github.com/HEYekram/Student-Management-System) · TODO demo |
-| **💼 Octopi Internship** | Weekly tasks and projects from my internship, documenting my development workflow with Git and GitHub. | `HTML` `CSS` `JavaScript` | [Code](https://github.com/HEYekram/Octopi-Intern) |
-| **✨ This Portfolio** | The site you may have come from. Dark and light themes, glass-style cards, and a custom interaction layer. | `React` `TypeScript` `Tailwind` | [Visit](TODO_YOUR_PORTFOLIO_URL) · TODO repo link |
-
-<br/>
-
-## `// now`
-
-```text
-> currently      sharpening React + TypeScript through real projects
-> improving      accessibility, performance, and responsive polish
-> exploring      Next.js and full-stack patterns with Node + MongoDB
-> goal           land a junior frontend role and grow with a good team
+const frontend = {
+  core:    ["HTML", "CSS", "JavaScript", "TypeScript"],
+  library: ["React", "Next.js"],
+  styling: ["Tailwind CSS"],
+};
 ```
 
-<br/>
+### `stack/tools.ts`
 
-## `// how i work`
+```ts
+const tools = {
+  workflow: ["Git", "GitHub", "Figma"],
+  deploy:   ["Netlify", "Firebase"],
+  editor:   "VS Code",
+};
+```
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <b>🎨 Design-minded</b><br/>
-      I translate atmosphere into components. Colour, type, and spacing are engineering decisions too.
-    </td>
-    <td width="33%" valign="top">
-      <b>♿ Accessible</b><br/>
-      Semantic HTML, keyboard support, and readable contrast from the first commit.
-    </td>
-    <td width="33%" valign="top">
-      <b>🧱 Maintainable</b><br/>
-      Small reusable components, clear naming, and READMEs that explain the why.
-    </td>
-  </tr>
-</table>
+---
 
-<br/>
+### `work/`
 
-## `// let's talk`
+**Blood Donation System** &nbsp;·&nbsp; [↗ code](https://github.com/HEYekram/Blood-Donation-System)
+```
+// web app for managing donor data and blood requests
+// built around a database-driven workflow
+// stack: TODO
+```
 
-If you're hiring, building something, or want to swap ideas, I reply personally.
+**Student Management System** &nbsp;·&nbsp; [↗ code](https://github.com/HEYekram/Student-Management-System)
+```
+// full CRUD for student records and organisation
+// stack: TODO
+```
+
+**Octopi Internship** &nbsp;·&nbsp; [↗ code](https://github.com/HEYekram/Octopi-Intern)
+```
+// weekly tasks from my internship
+// documenting workflow with Git and GitHub
+// HTML · CSS · JavaScript
+```
+
+**Portfolio** &nbsp;·&nbsp; [↗ visit](TODO_PORTFOLIO_URL) &nbsp;·&nbsp; [↗ code](TODO_REPO_URL)
+```
+// dark and light themes, glass-style cards
+// custom interaction layer
+// React · TypeScript · Tailwind CSS
+```
+
+---
+
+### `contact.ts`
+
+```ts
+// I reply to everything, personally.
+
+const reach = {
+  email:    "alekram.dev@gmail.com",
+  linkedin: "linkedin.com/in/alekram007",
+  github:   "github.com/HEYekram",
+};
+```
 
 <div align="center">
+<br/>
 
-<a href="https://mail.google.com/mail/?view=cm&to=alekram.dev@gmail.com"><img src="https://img.shields.io/badge/alekram.dev%40gmail.com-14505c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/alekram007/"><img src="https://img.shields.io/badge/in%2Falekram007-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-
-<br/><br/>
-
-<sub><i>Quiet craft. Loud taste. Always on the side of the person using the screen.</i></sub>
+[![Email](https://img.shields.io/badge/alekram.dev%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:alekram.dev@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/alekram007-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alekram007/)&nbsp;
+[![GitHub](https://img.shields.io/badge/HEYekram-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/HEYekram)
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:3a8794,50:14505c,100:0b1a20&section=footer" alt="" />

@@ -2,28 +2,31 @@
   ╔══════════════════════════════════════════════╗
   ║   Al Ekram Hossain · GitHub Profile README   ║
   ║   Concept: The Working Directory             ║
-  ║   Palette: Monochrome + single teal accent   ║
+  ║   Header: circuit dot-grid SVG pattern       ║
   ╚══════════════════════════════════════════════╝
 
-  BEFORE PUBLISHING — search for TODO and fill in:
-    1. Your deployed portfolio URL
-    2. Live demo links for each project
-    3. Actual stack used in each project
+  BEFORE PUBLISHING:
+    1. Save the file header.svg (provided separately) to your
+       profile repo root and uncomment the <img> tag below.
+    2. Search TODO and fill in portfolio + demo URLs.
+    3. Fill in actual stack for each project.
 -->
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=0&pause=0&color=F0F0F0&center=true&vCenter=true&width=600&lines=Al+Ekram+Hossain" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=0&pause=0&color=1a1a1a&center=true&vCenter=true&width=600&lines=Al+Ekram+Hossain" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=0&pause=0&color=F0F0F0&center=true&vCenter=true&width=600&lines=Al+Ekram+Hossain" alt="Al Ekram Hossain" />
-</picture>
+<!-- After saving header.svg to your repo root, replace the line below: -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0d1117,50:0d1117,100:0d1117&text=Al%20Ekram%20Hossain&fontColor=e8f4f6&fontSize=30&fontAlignY=52&desc=Frontend%20Developer%20%C2%B7%20Dhaka%2C%20Bangladesh&descSize=13&descColor=3a8794&descAlignY=68&fontFamily=monospace" alt="Al Ekram Hossain" width="100%" />
 
 <br/>
 
 ```
-frontend developer  ·  dhaka, bangladesh  ·  ekram.dev@gmail.com
+frontend developer  ·  dhaka, bangladesh  ·  alekram.dev@gmail.com
 ```
+
+[![Email](https://img.shields.io/badge/alekram.dev%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:alekram.dev@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/alekram007-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alekram007/)&nbsp;
+[![GitHub](https://img.shields.io/badge/HEYekram-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/HEYekram)&nbsp;
+[![Portfolio](https://img.shields.io/badge/portfolio-111111?style=flat-square&logo=googlechrome&logoColor=3a8794)](TODO_PORTFOLIO_URL)
 
 </div>
 
@@ -130,11 +133,6 @@ const reach = {
 };
 ```
 
-<div align="center">
-<br/>
-
-[![Email](https://img.shields.io/badge/alekram.dev%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:alekram.dev@gmail.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/alekram007-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alekram007/)&nbsp;
-[![GitHub](https://img.shields.io/badge/HEYekram-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/HEYekram)
-
+<div align="center"><br/>
+<sub><i>quiet craft · loud taste · always on the side of the person using the screen</i></sub>
 </div>

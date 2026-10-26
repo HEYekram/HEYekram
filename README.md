@@ -15,7 +15,7 @@
 <div align="center">
 
 <!-- After saving header.svg to your repo root, replace the line below: -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0d1117,50:0d1117,100:0d1117&text=Al%20Ekram%20Hossain&fontColor=e8f4f6&fontSize=30&fontAlignY=52&desc=Frontend%20Developer%20%C2%B7%20Dhaka%2C%20Bangladesh&descSize=13&descColor=3a8794&descAlignY=68&fontFamily=monospace" alt="Al Ekram Hossain" width="100%" />
+<img src="https://./header.svg.vercel.app/api?type=rect&height=220&color=0:0d1117,50:0d1117,100:0d1117&text=Al%20Ekram%20Hossain&fontColor=e8f4f6&fontSize=30&fontAlignY=52&desc=Frontend%20Developer%20%C2%B7%20Dhaka%2C%20Bangladesh&descSize=13&descColor=3a8794&descAlignY=68&fontFamily=monospace" alt="Al Ekram Hossain" width="100%" />
 
 <br/>
 

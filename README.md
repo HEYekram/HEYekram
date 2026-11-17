@@ -15,7 +15,7 @@
 <div align="center">
 
 <!-- After saving header.svg to your repo root, replace the line below: -->
-<img src="assets/header.svg" alt="Al Ekram Hossain" width="100%" />
+<img src="assets/banner_astronaut_v2.gif" alt="Al Ekram Hossain" width="100%" />
 
 <br/>
 

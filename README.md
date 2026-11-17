@@ -136,3 +136,4 @@ const reach = {
 <div align="center"><br/>
 <sub><i>quiet craft · loud taste · always on the side of the person using the screen</i></sub>
 </div>
+<img src="assets/footer.gif" alt="Al Ekram Hossain" width="100%" />
